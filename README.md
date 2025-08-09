@@ -1,2 +1,2 @@
-# imersão-dados-python-alura
+# imersao-dados-python-alura
 Criação de Dashboard em Python para Análise de Dados
